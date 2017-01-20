@@ -1,6 +1,6 @@
 # logview
 
-Logview is app for formatting the color of text output to a terminal. Only support *unix.
+Logview is tool for formatting the color of text output to a terminal. Only support *unix.
 
 
 # Usage
