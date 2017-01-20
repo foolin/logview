@@ -44,7 +44,7 @@ func (l *LogWriter) Write(p []byte) (n int, err error) {
 		if color != TextWhite{
 			v = TextColor(color, v)
 		}
-		os.Stdout.WriteString(fmt.Sprintf("%v\n", color))
+		os.Stdout.WriteString(fmt.Sprintf("%v\n", v))
 	}
 	return len(p), nil
 }

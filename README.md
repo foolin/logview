@@ -5,7 +5,7 @@ Logview is app for formatting the color of text output to a terminal. Only suppo
 
 # Usage
 
-1.Download bin/logview, or you can download source code and build.
+1.Download bin/logview, or download source code and build.
 
 2.Run *unix command, such as: ./logview xxx(shell command like cat/tail)
 
@@ -13,7 +13,13 @@ Logview is app for formatting the color of text output to a terminal. Only suppo
 # Example
 
 Shell command:
-`tail -f xxx.log `
+`tail -f xxx.log`
+
+![tail -f tigo.log](example/tail.png "Shell command: tail -f tigo.log")
+
+
 
 Use logview like this:
 `./logview tail -f xxx.log`
+
+![./logview tail -f tigo.log](example/tail.png "Shell command: ./logview tail -f tigo.log")
