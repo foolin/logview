@@ -2,10 +2,9 @@
 
 Logview is tool for formatting the color of text output to a terminal. Only support *unix.
 
-
 # Usage
 
-1.Download bin/logview, or download source code and build.
+1.Download [Logview](https://github.com/foolin/logview/releases "Logview release"), or source code and build.
 
 2.Run *unix command, such as: ./logview xxx(shell command like cat/tail)
 
