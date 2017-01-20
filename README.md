@@ -22,4 +22,4 @@ Shell command:
 Use logview like this:
 `./logview tail -f xxx.log`
 
-![./logview tail -f tigo.log](example/tail.png "Shell command: ./logview tail -f tigo.log")
+![./logview tail -f tigo.log](example/logview.png "Logview command: ./logview tail -f tigo.log")
